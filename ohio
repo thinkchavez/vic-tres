@@ -1,0 +1,10 @@
+OSU = {
+  color = { 206 15 61 }
+  
+  tier = principality
+  
+  country_type = recognized
+  
+  cultures = { yankee }
+  
+  capital = STATE_OHIO
